@@ -39,8 +39,10 @@ The electronic payment and payment processing sector has come a long way since W
 
 ---
 
-##sources
+## sources
 
-[references](https://www.investopedia.com/tech/what-stoneco-ltd-and-why-berkshire-hathaway-invested-it/)
-[references] (https://www.stone.com.br/porque-stone/)
+[Investopedia](https://www.investopedia.com/tech/what-stoneco-ltd-and-why-berkshire-hathaway-invested-it/)
+
+
+[stoneco](https://www.stone.com.br/porque-stone/)
 
